@@ -1,0 +1,19 @@
+# Robot Framework outputs
+output.xml
+log.html
+report.html
+
+# Screenshots
+selenium-screenshot*.png
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor
+.vscode/
+
+
+# WebDriver logs
+geckodriver*.log
+chromedriver*.log
